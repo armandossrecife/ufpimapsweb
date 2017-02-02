@@ -1,544 +1,1640 @@
 [
-{
-  "descricao" : "Comissão Permanente de Seleção",
-  "email" : "",
-  "id" : 1,
-  "localization" : {
-    "latitude" : -5.056270,
-    "longitude" : -42.790644
+  {
+    "descricao": "Comissão Permanente de Seleção",
+    "email": "",
+    "id": 1,
+    "localization": {
+      "latitude": -5.05627,
+      "longitude": -42.790644
+    },
+    "nome": "COPESE",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "COPESE",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-}, {
-  "descricao" : "Prefeitura Universitária",
-  "email" : "",
-  "id" : 2,
-  "localization" : {
-    "latitude" : -5.056844,
-    "longitude" : -42.790800
+  {
+    "descricao": "Superintendência de Recursos Humanos",
+    "email": "",
+    "id": 3,
+    "localization": {
+      "latitude": -5.056844,
+      "longitude": -42.790831
+    },
+    "nome": "Recursos Humanos",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "PREFEITURA",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},{
-  "descricao" : "Superintendência de Recursos Humanos",
-  "email" : "",
-  "id" : 3,
-  "localization" : {
-    "latitude" : -5.056844,
-    "longitude" : -42.790831
+  {
+    "descricao": "Pró-reitoria de Ensino de Graduação",
+    "email": "",
+    "id": 4,
+    "localization": {
+      "latitude": -5.057407,
+      "longitude": -42.791347
+    },
+    "nome": "PREG",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Recursos Humanos",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},{
-  "descricao" : "Pró-reitoria de Ensino de Graduação",
-  "email" : "",
-  "id" : 4,
-  "localization" : {
-    "latitude" : -5.057407,
-    "longitude" : -42.791347
+  {
+    "descricao": "Núcleo de Tecnologia da Informação",
+    "email": "",
+    "id": 5,
+    "localization": {
+      "latitude": -5.056682,
+      "longitude": -42.790264
+    },
+    "nome": "NTI",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "PREG",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},{
-  "descricao" : "Núcleo de Tecnologia da Informação",
-  "email" : "",
-  "id" : 5,
-  "localization" : {
-    "latitude" : -5.056682,
-    "longitude" : -42.790264
+  {
+    "descricao": "Pró-reitoria de Planejamento",
+    "email": "",
+    "id": 6,
+    "localization": {
+      "latitude": -5.057252,
+      "longitude": -42.791315
+    },
+    "nome": "PROPLAN",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "NTI",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},{
-  "descricao" : "Pró-reitoria de Planejamento",
-  "email" : "",
-  "id" : 6,
-  "localization" : {
-    "latitude" : -5.057252,
-    "longitude" : -42.791315
+  {
+    "descricao": "Superintendência de Comunicação Social",
+    "email": "",
+    "id": 7,
+    "localization": {
+      "latitude": -5.0571645,
+      "longitude": -42.7912895
+    },
+    "nome": "SUPERINTENDENCIA DE COMUNICAÇÃO",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "PROPLAN",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Superintendência de Comunicação Social",
-  "email" : "",
-  "id" : 7,
-  "localization" : {
-    "latitude" : -5.0571645,
-    "longitude" : -42.7912895
+  {
+    "descricao": "Pró-reitoria de Administração",
+    "email": "",
+    "id": 8,
+    "localization": {
+      "latitude": -5.057069,
+      "longitude": -42.7916
+    },
+    "nome": "PRAD",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "SUPERINTENDENCIA DE COMUNICAÇÃO",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Pró-reitoria de Administração",
-  "email" : "",
-  "id" : 8,
-  "localization" : {
-    "latitude" : -5.057069,
-    "longitude" : -42.791600
+  {
+    "descricao": "Protocolo Geral da UFPI",
+    "email": "",
+    "id": 9,
+    "localization": {
+      "latitude": -5.056752,
+      "longitude": -42.792
+    },
+    "nome": "Protocolo Geral",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "PRAD",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Protocolo Geral da UFPI",
-  "email" : "",
-  "id" : 9,
-  "localization" : {
-    "latitude" : -5.056752,
-    "longitude" : -42.792000
+  {
+    "descricao": "Divisão de Patrimônio",
+    "email": "",
+    "id": 10,
+    "localization": {
+      "latitude": -5.05609,
+      "longitude": -42.792517
+    },
+    "nome": "Divisão de Patrimônio",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Protocolo Geral",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Divisão de Patrimônio",
-  "email" : "",
-  "id" : 10,
-  "localization" : {
-    "latitude" : -5.056090,
-    "longitude" : -42.792517
+  {
+    "descricao": "Almoxarifado da UFPI",
+    "email": "",
+    "id": 11,
+    "localization": {
+      "latitude": -5.055753,
+      "longitude": -42.792828
+    },
+    "nome": "Almoxarifado",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Divisão de Patrimônio",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Almoxarifado da UFPI",
-  "email" : "",
-  "id" : 11,
-  "localization" : {
-    "latitude" : -5.055753,
-    "longitude" : -42.792828
+  {
+    "descricao": "Divisão de Assuntos Acadêmicos",
+    "email": "",
+    "id": 12,
+    "localization": {
+      "latitude": -5.057547,
+      "longitude": -42.791372
+    },
+    "nome": "DAA",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Almoxarifado",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Divisão de Assuntos Acadêmicos",
-  "email" : "",
-  "id" : 12,
-  "localization" : {
-    "latitude" : -5.057547,
-    "longitude" : -42.791372
+  {
+    "descricao": "Reitoria da UFPI",
+    "email": "",
+    "id": 13,
+    "localization": {
+      "latitude": -5.057587,
+      "longitude": -42.791942
+    },
+    "nome": "REITORIA",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "DAA",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Reitoria da UFPI",
-  "email" : "",
-  "id" : 13,
-  "localization" : {
-    "latitude" : -5.057587, 
-    "longitude" : -42.791942
+  {
+    "descricao": "Praça da Reitoria",
+    "email": "",
+    "id": 14,
+    "localization": {
+      "latitude": -5.057835,
+      "longitude": -42.792078
+    },
+    "nome": "CORETO DA REITORIA",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "REITORIA",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Praça da Reitoria",
-  "email" : "",
-  "id" : 14,
-  "localization" : {
-    "latitude" : -5.057835, 
-    "longitude" : -42.792078
+  {
+    "descricao": "Mestrado em Ciência da Computação",
+    "email": "",
+    "id": 15,
+    "localization": {
+      "latitude": -5.056282,
+      "longitude": -42.790784
+    },
+    "nome": "Núcleo de Computação Aplicada",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "CORETO DA REITORIA",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Mestrado em Ciência da Computação",
-  "email" : "",
-  "id" : 15,
-  "localization" : {
-    "latitude" : -5.056282, 
-    "longitude" : -42.790784
+  {
+    "descricao": "Restaurante Universitário Principal",
+    "email": "",
+    "id": 16,
+    "localization": {
+      "latitude": -5.05586,
+      "longitude": -42.788595
+    },
+    "nome": "Restaurante Universitário I",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Núcleo de Computação Aplicada",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Restaurante Universitário Principal",
-  "email" : "",
-  "id" : 16,
-  "localization" : {
-    "latitude" : -5.055860,
-    "longitude" : -42.788595
+  {
+    "descricao": "Pró-reitoria de Assuntos Estudantis e Comunitários",
+    "email": "",
+    "id": 17,
+    "localization": {
+      "latitude": -5.056336,
+      "longitude": -42.788622
+    },
+    "nome": "PRAEC",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Restaurante Universitário I",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Pró-reitoria de Assuntos Estudantis e Comunitários",
-  "email" : "",
-  "id" : 17,
-  "localization" : {
-    "latitude" : -5.056336,
-    "longitude" : -42.788622
+  {
+    "descricao": "Pró-reitoria de Extensão",
+    "email": "",
+    "id": 18,
+    "localization": {
+      "latitude": -5.060015,
+      "longitude": -42.792839
+    },
+    "nome": "PREX",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "PRAEC",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Pró-reitoria de Extensão",
-  "email" : "",
-  "id" : 18,
-  "localization" : {
-    "latitude" : -5.060015,
-    "longitude" : -42.792839
+  {
+    "descricao": "Diretório Central dos Estudantes",
+    "email": "",
+    "id": 19,
+    "localization": {
+      "latitude": -5.056845,
+      "longitude": -42.789032
+    },
+    "nome": "DCE",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "PREX",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Diretório Central dos Estudantes",
-  "email" : "",
-  "id" : 19,
-  "localization" : {
-    "latitude" : -5.056845, 
-    "longitude" : -42.789032
+  {
+    "descricao": "Rádio FM Universitária",
+    "email": "",
+    "id": 20,
+    "localization": {
+      "latitude": -5.059566,
+      "longitude": -42.795964
+    },
+    "nome": "RÁDIO",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "DCE",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-
-{
-  "descricao" : "Rádio FM Universitária",
-  "email" : "",
-  "id" : 20,
-  "localization" : {
-    "latitude" : -5.059566, 
-    "longitude" : -42.795964
+  {
+    "descricao": "Biblioteca Central",
+    "email": "",
+    "id": 21,
+    "localization": {
+      "latitude": -5.060313,
+      "longitude": -42.796251
+    },
+    "nome": "Biblioteca Central",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "RÁDIO",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Biblioteca Central",
-  "email" : "",
-  "id" : 21,
-  "localization" : {
-    "latitude" : -5.060313, 
-    "longitude" : -42.796251
+  {
+    "descricao": "Banco Santander",
+    "email": "",
+    "id": 22,
+    "localization": {
+      "latitude": -5.061414,
+      "longitude": -42.796195
+    },
+    "nome": "Banco Santander",
+    "phone": "",
+    "services": "",
+    "type": 4,
+    "website": ""
   },
-  "nome" : "Biblioteca Central",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Banco Santander",
-  "email" : "",
-  "id" : 22,
-  "localization" : {
-    "latitude" : -5.061414, 
-    "longitude" : -42.796195 
+  {
+    "descricao": "Banco do Brasil",
+    "email": "",
+    "id": 23,
+    "localization": {
+      "latitude": -5.061697,
+      "longitude": -42.79631
+    },
+    "nome": "Banco do Brasil",
+    "phone": "",
+    "services": "",
+    "type": 4,
+    "website": ""
   },
-  "nome" : "Banco Santander",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Banco do Brasil",
-  "email" : "",
-  "id" : 23,
-  "localization" : {
-    "latitude" : -5.061697, 
-    "longitude" : -42.796310
+  {
+    "descricao": "Farmácia Escola",
+    "email": "",
+    "id": 24,
+    "localization": {
+      "latitude": -5.061091,
+      "longitude": -42.796216
+    },
+    "nome": "Farmácia Escola",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Banco do Brasil",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Farmácia Escola",
-  "email" : "",
-  "id" : 24,
-  "localization" : {
-    "latitude" : -5.061091, 
-    "longitude" : -42.796216
+  {
+    "descricao": "CineTeatro",
+    "email": "",
+    "id": 25,
+    "localization": {
+      "latitude": -5.062176,
+      "longitude": -42.796323
+    },
+    "nome": "CineTeatro",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Farmácia Escola",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "CineTeatro",
-  "email" : "",
-  "id" : 25,
-  "localization" : {
-    "latitude" : -5.062176, 
-    "longitude" : -42.796323
+  {
+    "descricao": "Espaço Cultural Noé Mendes",
+    "email": "",
+    "id": 26,
+    "localization": {
+      "latitude": -5.062197,
+      "longitude": -42.797289
+    },
+    "nome": "Espaço Cultural Noé Mendes",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "CineTeatro",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Espaço Cultural Noé Mendes",
-  "email" : "",
-  "id" : 26,
-  "localization" : {
-    "latitude" : -5.062197, 
-    "longitude" : -42.797289
+  {
+    "descricao": "Departamento de Biologia",
+    "email": "",
+    "id": 27,
+    "localization": {
+      "latitude": -5.058499,
+      "longitude": -42.791627
+    },
+    "nome": "Biologia",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Espaço Cultural Noé Mendes",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Departamento de Biologia",
-  "email" : "",
-  "id" : 27,
-  "localization" : {
-    "latitude" : -5.058499, 
-    "longitude" : -42.791627
+  {
+    "descricao": "Departamento de Química",
+    "email": "",
+    "id": 28,
+    "localization": {
+      "latitude": -5.058061,
+      "longitude": -42.791166
+    },
+    "nome": "Química",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Biologia",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Departamento de Química",
-  "email" : "",
-  "id" : 28,
-  "localization" : {
-    "latitude" : -5.058061, 
-    "longitude" : -42.791166
+  {
+    "descricao": "Departamento de Física",
+    "email": "",
+    "id": 29,
+    "localization": {
+      "latitude": -5.057655,
+      "longitude": -42.790662
+    },
+    "nome": "Física",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Química",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Departamento de Física",
-  "email" : "",
-  "id" : 29,
-  "localization" : {
-    "latitude" : -5.057655, 
-    "longitude" : -42.790662
+  {
+    "descricao": "Departamento de Matemática",
+    "email": "",
+    "id": 30,
+    "localization": {
+      "latitude": -5.057238,
+      "longitude": -42.790179
+    },
+    "nome": "Matemática",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Física",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Departamento de Matemática",
-  "email" : "",
-  "id" : 30,
-  "localization" : {
-    "latitude" : -5.057238, 
-    "longitude" : -42.790179
+  {
+    "descricao": "Departamento de Computação",
+    "email": "",
+    "id": 31,
+    "localization": {
+      "latitude": -5.056217,
+      "longitude": -42.78982
+    },
+    "nome": "Ciência da Computação",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   },
-  "nome" : "Matemática",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Departamento de Computação",
-  "email" : "",
-  "id" : 31,
-  "localization" : {
-    "latitude" : -5.056217, 
-    "longitude" : -42.789820
+  {
+    "descricao": "Estação 04",
+    "email": "",
+    "id": 32,
+    "localization": {
+      "latitude": -5.0562639,
+      "longitude": -42.789425
+    },
+    "nome": "ESTAÇÃO DE ÔNIBUS - 04",
+    "phone": "",
+    "services": "",
+    "type": 0,
+    "website": ""
   },
-  "nome" : "Ciência da Computação",
-  "phone" : "",
-  "services" : "",
-  "type" : 2,
-  "website" : ""
-},
-{
-  "descricao" : "Estação 04",
-  "email" : "",
-  "id" : 32,
-  "localization" : {
-    "latitude" : -5.0562639, 
-    "longitude" : -42.789425
+  {
+    "descricao": "Estação 06",
+    "email": "",
+    "id": 33,
+    "localization": {
+      "latitude": -5.0563334,
+      "longitude": -42.7897559
+    },
+    "nome": "ESTAÇÃO DE ÔNIBUS - 06",
+    "phone": "",
+    "services": "",
+    "type": 0,
+    "website": ""
   },
-  "nome" : "ESTAÇÃO DE ÔNIBUS - 04",
-  "phone" : "",
-  "services" : "",
-  "type" : 0,
-  "website" : ""
-},
-{
-  "descricao" : "Estação 06",
-  "email" : "",
-  "id" : 33,
-  "localization" : {
-    "latitude" : -5.0563334, 
-    "longitude" : -42.7897559
+  {
+    "descricao": "Estação 03",
+    "email": "",
+    "id": 34,
+    "localization": {
+      "latitude": -5.0570628,
+      "longitude": -42.7903406
+    },
+    "nome": "ESTAÇÃO DE ÔNIBUS - 03",
+    "phone": "",
+    "services": "",
+    "type": 0,
+    "website": ""
   },
-  "nome" : "ESTAÇÃO DE ÔNIBUS - 06",
-  "phone" : "",
-  "services" : "",
-  "type" : 0,
-  "website" : ""
-},
-{
-  "descricao" : "Estação 03",
-  "email" : "",
-  "id" : 34,
-  "localization" : {
-    "latitude" : -5.0570628, 
-    "longitude" : -42.7903406
+  {
+    "descricao": "Estação 07",
+    "email": "",
+    "id": 35,
+    "localization": {
+      "latitude": -5.0571697,
+      "longitude": -42.7906678
+    },
+    "nome": "ESTAÇÃO DE ÔNIBUS - 07",
+    "phone": "",
+    "services": "",
+    "type": 0,
+    "website": ""
   },
-  "nome" : "ESTAÇÃO DE ÔNIBUS - 03",
-  "phone" : "",
-  "services" : "",
-  "type" : 0,
-  "website" : ""
-},
-{
-  "descricao" : "Estação 07",
-  "email" : "",
-  "id" : 35,
-  "localization" : {
-    "latitude" : -5.0571697, 
-    "longitude" : -42.7906678
+  {
+    "descricao": "Estação 02",
+    "email": "",
+    "id": 36,
+    "localization": {
+      "latitude": -5.0580807,
+      "longitude": -42.7914376
+    },
+    "nome": "ESTAÇÃO DE ÔNIBUS - 02",
+    "phone": "",
+    "services": "",
+    "type": 0,
+    "website": ""
   },
-  "nome" : "ESTAÇÃO DE ÔNIBUS - 07",
-  "phone" : "",
-  "services" : "",
-  "type" : 0,
-  "website" : ""
-},
-{
-  "descricao" : "Estação 02",
-  "email" : "",
-  "id" : 36,
-  "localization" : {
-    "latitude" : -5.0580807, 
-    "longitude" : -42.7914376
+  {
+    "descricao": "Estação 08",
+    "email": "",
+    "id": 36,
+    "localization": {
+      "latitude": -5.0581208,
+      "longitude": -42.7917058
+    },
+    "nome": "ESTAÇÃO DE ÔNIBUS - 08",
+    "phone": "",
+    "services": "",
+    "type": 0,
+    "website": ""
   },
-  "nome" : "ESTAÇÃO DE ÔNIBUS - 02",
-  "phone" : "",
-  "services" : "",
-  "type" : 0,
-  "website" : ""
-},
-{
-  "descricao" : "Estação 08",
-  "email" : "",
-  "id" : 36,
-  "localization" : {
-    "latitude" : -5.0581208, 
-    "longitude" : -42.7917058
+  {
+    "descricao": "Rotatória Reitoria",
+    "email": "",
+    "id": 37,
+    "localization": {
+      "latitude": -5.058563,
+      "longitude": -42.792091
+    },
+    "nome": "Rotatória Reitoria CCN",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
   },
-  "nome" : "ESTAÇÃO DE ÔNIBUS - 08",
-  "phone" : "",
-  "services" : "",
-  "type" : 0,
-  "website" : ""
-},
-{
-  "descricao" : "Rotatória Reitoria",
-  "email" : "",
-  "id" : 37,
-  "localization" : {
-    "latitude" : -5.058563,
-    "longitude" : -42.792091
+  {
+    "descricao": "Rotatória Restaurante Universitário",
+    "email": "",
+    "id": 38,
+    "localization": {
+      "latitude": -5.055677,
+      "longitude": -42.788905
+    },
+    "nome": "Rotatória RU Nutrição",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  }, 
+  {
+    "descricao": "",
+    "email": "",
+    "id": 39,
+    "localization": {
+      "latitude": -5.055527,
+      "longitude": -42.788745
+    },
+    "nome": "BALAO_ENTRADA1_NORTE",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
   },
-  "nome" : "Rotatória Reitoria CCN",
-  "phone" : "",
-  "services" : "",
-  "type" : 0,
-  "website" : ""
-},
-{
-  "descricao" : "Rotatória Restaurante Universitário",
-  "email" : "",
-  "id" : 38,
-  "localization" : {
-    "latitude" : -5.055677, 
-    "longitude" : -42.788905
+  {
+    "descricao": "",
+    "email": "",
+    "id": 40,
+    "localization": {
+      "latitude": -5.055927,
+      "longitude": -42.788682
+    },
+    "nome": "ENTRADA_RU1",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
   },
-  "nome" : "Rotatória RU Nutrição",
-  "phone" : "",
-  "services" : "",
-  "type" : 0,
-  "website" : ""
-}
+  {
+    "descricao": "",
+    "email": "",
+    "id": 41,
+    "localization": {
+      "latitude": -5.056282,
+      "longitude": -42.78844
+    },
+    "nome": "ENTRADA_RI1ADM_PRAEC",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 42,
+    "localization": {
+      "latitude": -5.05642,
+      "longitude": -42.788332
+    },
+    "nome": "CRUZ_RU_DCE",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 43,
+    "localization": {
+      "latitude": -5.056622,
+      "longitude": -42.788533
+    },
+    "nome": "RUA_DCE",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 44,
+    "localization": {
+      "latitude": -5.056862,
+      "longitude": -42.788797
+    },
+    "nome": "Entrada do Diretório Central dos Estudantes (DCE)",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 45,
+    "localization": {
+      "latitude": -5.056984,
+      "longitude": -42.788932
+    },
+    "nome": "CRUZ_DCE_ANEXOODONTO",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 46,
+    "localization": {
+      "latitude": -5.057008,
+      "longitude": -42.789308
+    },
+    "nome": "Anexo Odonto - Matemática",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 47,
+    "localization": {
+      "latitude": -5.055954,
+      "longitude": -42.789227
+    },
+    "nome": "Entrada Odontologia",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 48,
+    "localization": {
+      "latitude": -5.056317,
+      "longitude": -42.78963
+    },
+    "nome": "Entrada COMPUTACAO_ESPINTEGR2",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 49,
+    "localization": {
+      "latitude": -5.056312,
+      "longitude": -42.789107
+    },
+    "nome": "ESPINTEGR2_2",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada do Espaço Integrado I",
+    "email": "",
+    "id": 50,
+    "localization": {
+      "latitude": -5.056499,
+      "longitude": -42.789103
+    },
+    "nome": "ESPINTEGR2",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 51,
+    "localization": {
+      "latitude": -5.058342,
+      "longitude": -42.791836
+    },
+    "nome": "Entrada do Bloco de BIOLOGIA",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 52,
+    "localization": {
+      "latitude": -5.05851,
+      "longitude": -42.792282
+    },
+    "nome": "BALAO_CCN_LESTE",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 53,
+    "localization": {
+      "latitude": -5.058649,
+      "longitude": -42.792288
+    },
+    "nome": "BALAO_CCN_SUL",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 54,
+    "localization": {
+      "latitude": -5.058362,
+      "longitude": -42.792644
+    },
+    "nome": "ACESSO_CCN_1",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 55,
+    "localization": {
+      "latitude": -5.058158,
+      "longitude": -42.793026
+    },
+    "nome": "CRUZ_ACESSOCCN_ADM_EMAS",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 56,
+    "localization": {
+      "latitude": -5.058158,
+      "longitude": -42.793026
+    },
+    "nome": "TRIDENTE_CCN_EMAS",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada da Praça da Reitoria",
+    "email": "",
+    "id": 57,
+    "localization": {
+      "latitude": -5.057777,
+      "longitude": -42.792575
+    },
+    "nome": "PRACA_REITORIA",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada da Reitoria",
+    "email": "",
+    "id": 58,
+    "localization": {
+      "latitude": -5.057571,
+      "longitude": -42.792345
+    },
+    "nome": "Reitoria",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada da PROPESQ",
+    "email": "",
+    "id": 59,
+    "localization": {
+      "latitude": -5.057195,
+      "longitude": -42.791924
+    },
+    "nome": "PROPESQ",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada da PRAD",
+    "email": "",
+    "id": 60,
+    "localization": {
+      "latitude": -5.057006,
+      "longitude": -42.791723
+    },
+    "nome": "PRAD_PROTOCOLO",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 61,
+    "localization": {
+      "latitude": -5.057006,
+      "longitude": -42.791723
+    },
+    "nome": "CRUZ_ALMOX",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada Patrimônio",
+    "email": "",
+    "id": 62,
+    "localization": {
+      "latitude": -5.056494,
+      "longitude": -42.791984
+    },
+    "nome": "ACESSO_ALMOX",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada Almoxarifado",
+    "email": "",
+    "id": 63,
+    "localization": {
+      "latitude": -5.056063,
+      "longitude": -42.792442
+    },
+    "nome": "ALMOX1",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada da COPESE",
+    "email": "",
+    "id": 64,
+    "localization": {
+      "latitude": -5.056162,
+      "longitude": -42.790817
+    },
+    "nome": "COPESE",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Fundo a Odontologia",
+    "email": "",
+    "id": 65,
+    "localization": {
+      "latitude": -5.055702,
+      "longitude": -42.790317
+    },
+    "nome": "Odontologia Final",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada da Farmácia",
+    "email": "",
+    "id": 66,
+    "localization": {
+      "latitude": -5.055404,
+      "longitude": -42.789975
+    },
+    "nome": "Farmácia",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada do Anexo da Farmácia",
+    "email": "",
+    "id": 67,
+    "localization": {
+      "latitude": -5.055183,
+      "longitude": -42.789717
+    },
+    "nome": "ANEXO_FARMACIA_MORFOLOGIA",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 68,
+    "localization": {
+      "latitude": -5.054995,
+      "longitude": -42.789498
+    },
+    "nome": "CRUZ_FARMACIA_MORF_ENFERMAGEM",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Balão entrada RU I",
+    "email": "",
+    "id": 69,
+    "localization": {
+      "latitude": -5.055536,
+      "longitude": -42.789035
+    },
+    "nome": "BALAO_ENTRADA1_OESTE",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada Balão RU I",
+    "email": "",
+    "id": 70,
+    "localization": {
+      "latitude": -5.055815,
+      "longitude": -42.788797
+    },
+    "nome": "BALAO_ENTRADA1_LESTE",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 71,
+    "localization": {
+      "latitude": -5.055815,
+      "longitude": -42.788797
+    },
+    "nome": "BALAO_ENTRADA1_SUL",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada de Nutrição",
+    "email": "",
+    "id": 72,
+    "localization": {
+      "latitude": -5.055331,
+      "longitude": -42.78923
+    },
+    "nome": "NUTRICAO1",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada de Enfermagem",
+    "email": "",
+    "id": 73,
+    "localization": {
+      "latitude": -5.05461,
+      "longitude": -42.789834
+    },
+    "nome": "ENFERMAGEM",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Acesso Juizado",
+    "email": "",
+    "id": 74,
+    "localization": {
+      "latitude": -5.054204,
+      "longitude": -42.79019
+    },
+    "nome": "CRUZ_ENFERMAGEM_JUIZADO",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada Juizado",
+    "email": "",
+    "id": 75,
+    "localization": {
+      "latitude": -5.054039,
+      "longitude": -42.79033
+    },
+    "nome": "JUIZADO_ENFERMAGEM",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada do NTF",
+    "email": "",
+    "id": 76,
+    "localization": {
+      "latitude": -5.054122,
+      "longitude": -42.791231
+    },
+    "nome": "NTF",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 77,
+    "localization": {
+      "latitude": -5.053633,
+      "longitude": -42.790682
+    },
+    "nome": "CRUZ_UNKNOWN_ACESSOALMOX",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 78,
+    "localization": {
+      "latitude": -5.054565,
+      "longitude": -42.79175
+    },
+    "nome": "CRUZ_ACESSOALMOX_OUTUFPI",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Entrada estacionomento Almoxarifado",
+    "email": "",
+    "id": 79,
+    "localization": {
+      "latitude": -5.054998,
+      "longitude": -42.79226
+    },
+    "nome": "ACESSO_ALMOX",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "Acesso Almoxarifado",
+    "email": "",
+    "id": 80,
+    "localization": {
+      "latitude": -5.055717,
+      "longitude": -42.793068
+    },
+    "nome": "ALMOX2",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 81,
+    "localization": {
+      "latitude": -5.055761,
+      "longitude": -42.789411
+    },
+    "nome": "Departamento de Odontologia - CCS",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 82,
+    "localization": {
+      "latitude": -5.055235,
+      "longitude": -42.790143
+    },
+    "nome": "Departamento de Farmácia - CCS",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 83,
+    "localization": {
+      "latitude": -5.054868,
+      "longitude": -42.789381
+    },
+    "nome": "Departamento de Nutrição - CCS",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 84,
+    "localization": {
+      "latitude": -5.05409,
+      "longitude": -42.790065
+    },
+    "nome": "Departamento de Enfermagem - CCS",
+    "phone": "",
+    "services": "",
+    "type": 1,
+    "website": ""
+  },
+  {
+    "descricao": "Espaço Integrado II - CCN",
+    "email": "",
+    "id": 85,
+    "localization": {
+      "latitude": -5.05654,
+      "longitude": -42.788935
+    },
+    "nome": "Espaço Integrado II",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 86,
+    "localization": {
+      "latitude": -5.061454,
+      "longitude": -42.794787
+    },
+    "nome": "Entrada-Saída I",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 87,
+    "localization": {
+      "latitude": -5.05543,
+      "longitude": -42.788594
+    },
+    "nome": "Entrada-Saída II",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 88,
+    "localization": {
+      "latitude": -5.053806,
+      "longitude": -42.800342
+    },
+    "nome": "Entrada-Saída III",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 89,
+    "localization": {
+      "latitude": -5.061778,
+      "longitude": -42.804461
+    },
+    "nome": "Entrada-Saída IV",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 90,
+    "localization": {
+      "latitude": -5.060364,
+      "longitude": -42.796352
+    },
+    "nome": "Biblioteca Central",
+    "phone": "",
+    "services": "",
+    "type": 3,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 91,
+    "localization": {
+      "latitude": -5.062082,
+      "longitude": -42.79727
+    },
+    "nome": "Espaço Noé Mendes",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 92,
+    "localization": {
+      "latitude": -5.060783,
+      "longitude": -42.797495
+    },
+    "nome": "Departamento de Moda - CCE ",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 93,
+    "localization": {
+      "latitude": -5.060172,
+      "longitude": -42.794047
+    },
+    "nome": "Hospital Universitário",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 94,
+    "localization": {
+      "latitude": -5.059477,
+      "longitude": -42.796676
+    },
+    "nome": "Espaço Integrado I",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 95,
+    "localization": {
+      "latitude": -5.0568,
+      "longitude": -42.788974
+    },
+    "nome": "Diretório Central dos Estudantes - DCE",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 96,
+    "localization": {
+      "latitude": -5.057132,
+      "longitude": -42.796898
+    },
+    "nome": "Coordenacao Graduacao Politica - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 97,
+    "localization": {
+      "latitude": -5.057395,
+      "longitude": -42.796935
+    },
+    "nome": "Coordenaçao de Administracao - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 98,
+    "localization": {
+      "latitude": -5.0575,
+      "longitude": -42.796946
+    },
+    "nome": "Coordenaçao de Ciências Contabeis - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 99,
+    "localization": {
+      "latitude": -5.057565,
+      "longitude": -42.796952
+    },
+    "nome": "Departamento de Letras - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 100,
+    "localization": {
+      "latitude": -5.057628,
+      "longitude": -42.79696
+    },
+    "nome": "Departamento de Economia - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 101,
+    "localization": {
+      "latitude": -5.057682,
+      "longitude": -42.796974
+    },
+    "nome": "Departamento de Filosofia - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 102,
+    "localization": {
+      "latitude": -5.057938,
+      "longitude": -42.797398
+    },
+    "nome": "Mestrado em Etica e Epistemologia - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 103,
+    "localization": {
+      "latitude": -5.057532,
+      "longitude": -42.797657
+    },
+    "nome": "Mestrado em Geografia - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 104,
+    "localization": {
+      "latitude": -5.05761,
+      "longitude": -42.797668
+    },
+    "nome": "Mestrado em Sociologia - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 105,
+    "localization": {
+      "latitude": -5.058168,
+      "longitude": -42.796377
+    },
+    "nome": "Coordenacao Artes Visuais - CCE",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 106,
+    "localization": {
+      "latitude": -5.057615,
+      "longitude": -42.79726
+    },
+    "nome": "Coordenação de Historia - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 107,
+    "localization": {
+      "latitude": -5.057593,
+      "longitude": -42.797084
+    },
+    "nome": "Coordenação de Geografia - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 108,
+    "localization": {
+      "latitude": -5.057615,
+      "longitude": -42.79726
+    },
+    "nome": "Coordenação de Direito - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 109,
+    "localization": {
+      "latitude": -5.057614,
+      "longitude": -42.79721
+    },
+    "nome": "Coordenação de Ciências Jurídicas - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 110,
+    "localization": {
+      "latitude": -5.057605,
+      "longitude": -42.797176
+    },
+    "nome": "Coordenação de Ciências Sociais - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 111,
+    "localization": {
+      "latitude": -5.057609,
+      "longitude": -42.79712
+    },
+    "nome": "Coordenação de Serviço Social - CCE",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 112,
+    "localization": {
+      "latitude": -5.057873,
+      "longitude": -42.796717
+    },
+    "nome": "Coordenação de Pedagogia - CCE",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 113,
+    "localization": {
+      "latitude": -5.057998,
+      "longitude": -42.79675
+    },
+    "nome": "Praça de Alimentação - CCHL",
+    "phone": "",
+    "services": "",
+    "type": 4,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 114,
+    "localization": {
+      "latitude": -5.047707,
+      "longitude": -42.784237
+    },
+    "nome": "Restaurante Universitario III",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 115,
+    "localization": {
+      "latitude": -5.047046,
+      "longitude": -42.78406
+    },
+    "nome": "Hospital Veterinário",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 116,
+    "localization": {
+      "latitude": -5.058439,
+      "longitude": -42.796086
+    },
+    "nome": "Centro de Ciências da Educação - CCE",
+    "phone": "(86) 3215-5810 / 3215-5693",
+    "services": "",
+    "type": 2,
+    "website": ""
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 117,
+    "localization": {
+      "latitude": -5.057146,
+      "longitude": -42.799788
+    },
+    "nome": "Centro de Tecnologia - CT",
+    "phone": "(86) 3215-5698",
+    "services": "",
+    "type": 2,
+    "website": "ct@ufpi.br"
+  }
 ]
