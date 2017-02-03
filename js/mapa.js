@@ -40,7 +40,7 @@ function carregarPontos() {
 				position: new google.maps.LatLng(pontoDegree),
 				title: ponto.nome,
 				label: ponto.nome, 
-				icon: 'img/marcador.png'
+				icon: 'images/marcador.png'
 			});
 			
 			var myOptions = {
@@ -61,7 +61,7 @@ function carregarPontos() {
 			
 		});
 		
-		var markerCluster = new MarkerClusterer(map, markers);
+		var markerCluster = new MarkerClusterer(map, markers, {imagePath: 'images/m'});
 		
 		map.fitBounds(latlngbounds);
 		
