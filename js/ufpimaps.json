@@ -1636,5 +1636,528 @@
     "services": "",
     "type": 2,
     "website": "ct@ufpi.br"
+  },
+  {
+    "descricao": "",
+    "email": "",
+    "id": 118,
+    "localization": {
+      "latitude": -5.056424,
+      "longitude": -42.790510 
+    },
+    "nome": "Biofísica",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }, 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 119,
+    "localization": {
+      "latitude": -5.055462,
+      "longitude": -42.789413
+    },
+    "nome": "Anatomia",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 120,
+    "localization": {
+      "latitude": -5.054831,
+      "longitude": -42.790021
+    },
+    "nome": "Bloco 11",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+  , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 121,
+    "localization": {
+      "latitude": -5.055093,
+      "longitude": -42.790909 
+    },
+    "nome": "NPPM",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 122,
+    "localization": {
+      "latitude": -5.055617,
+      "longitude": -42.790780
+    },
+    "nome": "NEP",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 123,
+    "localization": {
+      "latitude": -5.055719,
+      "longitude": -42.791075
+    },
+    "nome": "Parasitologia e Microbiologia",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 124,
+    "localization": {
+      "latitude": -5.054314,
+      "longitude": -42.790614
+    },
+    "nome": "NTF",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 125,
+    "localization": {
+      "latitude": -5.054025,
+      "longitude": -42.790861
+    },
+    "nome": "Pós-graduação em Enfermagem",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 126,
+    "localization": {
+      "latitude": -5.056846,
+      "longitude": -42.789407
+    },
+    "nome": "Consultórios Odontologia",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 127,
+    "localization": {
+      "latitude": -5.056648,
+      "longitude": -42.789327
+    },
+    "nome": "PIBIC",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 128,
+    "localization": {
+      "latitude": -5.056130,
+      "longitude": -42.799139
+    },
+    "nome": "Bloco 5 - Engenharia Civil",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 129,
+    "localization": {
+      "latitude": -5.056322,
+      "longitude": -42.799509
+    },
+    "nome": "Auditório",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 130,
+    "localization": {
+      "latitude": -5.056087,
+      "longitude": -42.799681
+    },
+    "nome": "Bloco 6 - Arquitetura e Urbanismo",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 131,
+    "localization": {
+      "latitude": -5.056330,
+      "longitude": -42.799764
+    },
+    "nome": "Bloco 4 - Engenharia Cartográfica e Departamento de Transportes",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 132,
+    "localization": {
+      "latitude": -5.056843,
+      "longitude": -42.799933
+    },
+    "nome": "Departamento de Engenharia de Produção",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 133,
+    "localization": {
+      "latitude": -5.057142,
+      "longitude": -42.799973
+    },
+    "nome": "Departamento de Engenharia Mecânica",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 134,
+    "localization": {
+      "latitude": -5.056934,
+      "longitude": -42.799219
+    },
+    "nome": "Departamento de Engenharia Elétrica",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 135,
+    "localization": {
+      "latitude": -5.057207,
+      "longitude": -42.799224
+    },
+    "nome": "Bloco 7",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 136,
+    "localization": {
+      "latitude": -5.048595,
+      "longitude": -42.786094
+    },
+    "nome": "Pós-graduação e Auditório",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 137,
+    "localization": {
+      "latitude": -5.048217,
+      "longitude": -42.783534
+    },
+    "nome": "Residência CT",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+, 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 138,
+    "localization": {
+      "latitude": -5.048173,
+      "longitude": -42.783064
+    },
+    "nome": "Consultórios",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 139,
+    "localization": {
+      "latitude": -5.048358,
+      "longitude": -42.781770
+    },
+    "nome": "Auditório",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 140,
+    "localization": {
+      "latitude": -5.048141,
+      "longitude": -42.782709
+    },
+    "nome": "Biblioteca",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 141,
+    "localization": {
+      "latitude": -5.047632,
+      "longitude": -42.783729
+    },
+    "nome": "Quadra Poliesportiva",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 142,
+    "localization": {
+      "latitude": -5.047184,
+      "longitude": -42.782877
+    },
+    "nome": "Patologia Animal",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 143,
+    "localization": {
+      "latitude": -5.046762,
+      "longitude": -42.783468
+    },
+    "nome": "Diagnóstico por Imagem",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 144,
+    "localization": {
+      "latitude": -5.046706,
+      "longitude": -42.783933
+    },
+    "nome": "LASAN",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 145,
+    "localization": {
+      "latitude": -5.046454,
+      "longitude": -42.783645
+    },
+    "nome": "Clínica de grandes animais",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 146,
+    "localization": {
+      "latitude": -5.046117,
+      "longitude": -42.782790
+    },
+    "nome": "LASO",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 147,
+    "localization": {
+      "latitude": -5.045927,
+      "longitude": -42.782256
+    },
+    "nome": "DEAS",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 148,
+    "localization": {
+      "latitude": -5.045204,
+      "longitude": -42.780686
+    },
+    "nome": "Apicultura",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 149,
+    "localization": {
+      "latitude": -5.046436,
+      "longitude": -42.781154
+    },
+    "nome": "Espaço Integrado",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 150,
+    "localization": {
+      "latitude": -5.043369,
+      "longitude": -42.783932
+    },
+    "nome": "DPPA",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 151,
+    "localization": {
+      "latitude": -5.043169,
+      "longitude": -42.784422
+    },
+    "nome": "Fitotecnia",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
+  }
+ , 
+ {
+    "descricao": "",
+    "email": "",
+    "id": 152,
+    "localization": {
+      "latitude": -5.041223,
+      "longitude": -42.782922
+    },
+    "nome": "Zootecnia",
+    "phone": "",
+    "services": "",
+    "type": 2,
+    "website": ""
   }
 ]
