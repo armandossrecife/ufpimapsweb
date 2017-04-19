@@ -6,3 +6,5 @@ Demo: http://www.princiweb.com.br/demos/google-maps-api-v3-criando-mapa-personal
 
 Google Maps JavaScript API v3: https://developers.google.com/maps/documentation/javascript/
 Google Maps Utility Library v3: https://code.google.com/p/google-maps-utility-library-v3/
+
+Versao simplificada para validar os pontos dos mapas da UFPI
