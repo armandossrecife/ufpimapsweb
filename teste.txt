@@ -1,2 +1,0 @@
-arquivo de teste.
-Este arquivo foi criado para revisar as operações básicas de SCM no repositório ufpimapsweb.
